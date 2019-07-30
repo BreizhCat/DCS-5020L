@@ -5,4 +5,4 @@ Just my own adaptation from project [DLink-Ptz-Tool of TrafeX](https://github.co
 
 # Use
 
-Update the config file with your own configuration.
+Update the config file with your own configuration and rename it just *config.php*
